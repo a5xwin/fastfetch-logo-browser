@@ -1,6 +1,6 @@
 # fastfetch-logo-browser
 
-An interactive Bash script to cycle through all available Fastfetch logos using arrow keys or keys like `Z`/`X`.
+An interactive Bash script to cycle through all available Fastfetch logos using arrow keys or keys like `⬅️`/`➡️`.
 
 This script makes it easier to visually choose a Fastfetch logo without manually editing config files or rerunning commands.
 
